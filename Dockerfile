@@ -1,5 +1,5 @@
 # Redhat UBI 9 Micro Image
-FROM redhat/ubi9-micro:latest
+FROM registry.access.redhat.com/ubi8/openjdk-11-runtime:latest
 
 MAINTAINER panther (jayant.saikia@prospecta.com)
 
